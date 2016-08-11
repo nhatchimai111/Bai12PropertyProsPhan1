@@ -1,0 +1,3 @@
+rootProject.name = 'Bai12PropertyProsPhan1'
+
+include ':app'
